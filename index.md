@@ -1,4 +1,6 @@
-## Welcome to GitHub Pages Emily Ford
+## Emily Ford's First CS193 Homework
+- Meeting new CS people
+- learning how to use other CS webistes that we will need in the future
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
